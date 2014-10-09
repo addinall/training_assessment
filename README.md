@@ -37,4 +37,10 @@ Job roles associated with this qualification relate to the delivery of training 
 - training adviser or training needs analyst
 - vocational education teacher.
 
+### Rationale
+
+Mainstream computing has become a little boring of late.  Some of you may
+have noticed I have been putting a lot of study time into the Life sciences (Virology, Molecular Biology, Genetics, Epigenetics, Epidemiology) and BioInformatics.
+
+Having a training qualification MAY allow me to teach some of the accumulated knowledge gathered from thirty years of software engineering whilst I continue moving towards the life sciences in study and in work.
 
